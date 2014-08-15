@@ -5,6 +5,7 @@
 	@version $Id$
 	@author Simon Bernard <simon@bernard.cc>
 	@copyright Simon Bernard 2013
+	@license http://www.apache.org/licenses/LICENSE-2.0 Apache License 2.0
 -->
 
 <!DOCTYPE html>
@@ -16,7 +17,7 @@
 
 <head>
 	<title><?php echo $ini['display_text']['title'] ?></title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen, projection" />
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 </head>
 
