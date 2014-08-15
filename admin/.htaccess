@@ -1,0 +1,7 @@
+AuthUserFile /path/to/your/admin/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Admin Area"
+AuthType Basic
+<limit GET POST>
+require valid-user
+</limit>
