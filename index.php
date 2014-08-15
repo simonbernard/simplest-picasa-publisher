@@ -5,7 +5,6 @@
 	@version $Id$
 	@author Simon Bernard <simon@bernard.cc>
 	@copyright Simon Bernard 2013
-	@license http://www.apache.org/licenses/LICENSE-2.0 Apache License 2.0
 -->
 
 <!DOCTYPE html>
